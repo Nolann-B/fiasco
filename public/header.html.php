@@ -13,13 +13,13 @@
    <div id="corps">
         <header>
             <?php require "public/nav.html.php" ?>
-            <div id="h_title1">
+            <div id="h_title1" class="font">
                 <p>Welcome</p>
             </div>
             <div id="h_title2">
                 <p>THE FIASCO</p>
             </div>
             <div id="h_title3">
-                <p>Mediterranean specialities</p>
+                <p>mediterranean specialities</p>
             </div>
         </header>
